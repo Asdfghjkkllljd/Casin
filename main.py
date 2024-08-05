@@ -392,8 +392,8 @@ async def start(msg: Message):
             await msg.answer(f"<b>Ваш реферал успешно установлен. ID реферала: {referrer_id}</b>")
 
     await msg.answer(f"<b>👋 Добро пожаловать, {msg.from_user.mention}</b>\n\n"
-                     "Канал со ставками - <a href='https://t.me/+6yHQlZaUizQ5ZmMy'>тык</a>\n"
-                     "Новостной канал - <a href='https://t.me/+noTnZbQmYYhmMjIy'>тык</a>",
+                     "Канал со ставками - <a href='https://t.me/+qg02lntDXBwxOTQy'>тык</a>\n"
+                     "Новостной канал - <a href='https://t.me/+YXO5t3AYIRgxZTdi'>тык</a>",
                      reply_markup=keyboards.user_markup)
 
 
